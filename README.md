@@ -8,6 +8,6 @@ cd Scanlistam3ua
 
 ls 
 
-python3 Ak47fri3nds.py
+python3 Ak47friends.py
 
 
